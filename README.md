@@ -13,42 +13,42 @@
 
 <b>Step 1.</b>&nbsp;&nbsp;Determining the task
 <br>
-<p align="center"><img src="images%20for%20GitHub/object%20recognition.jpg" width="460px"></p>
+<p align="center"><img src="images%20for%20GitHub/object%20recognition.jpg" width="540px"></p>
 <br>
 
 <b>Step 2.</b>&nbsp;&nbsp;Defining the industrial set of bottle caps
 <br>
-<p align="center"><img src="images%20for%20GitHub/set%20of%20caps.jpg" width="320px"></p>
+<p align="center"><img src="images%20for%20GitHub/set%20of%20caps.jpg" width="400px"></p>
 <br>
 
 <b>Step 3.</b>&nbsp;&nbsp;Implementing the gray template matching algorithm
 <br>
-<p align="center"><img src="images%20for%20GitHub/gray%20template%20matching.jpg" width="420px"></p>
+<p align="center"><img src="images%20for%20GitHub/gray%20template%20matching.jpg" width="480px"></p>
 <br>
 
 <b>Step 4.</b>&nbsp;&nbsp;Implementing the binary template matching algorithm
 <br>
-<p align="center"><img src="images%20for%20GitHub/binary%20template%20matching.jpg" width="420px"></p>
+<p align="center"><img src="images%20for%20GitHub/binary%20template%20matching.jpg" width="480px"></p>
 <br>
 
 <b>Step 5.</b>&nbsp;&nbsp;Implementing the Canny edges Hough algorithm
 <br>
-<p align="center"><img src="images%20for%20GitHub/Canny%20edges%20Hough.jpg" width="420px"></p>
+<p align="center"><img src="images%20for%20GitHub/Canny%20edges%20Hough.jpg" width="480px"></p>
 <br>
 
 <b>Step 6.</b>&nbsp;&nbsp;Implementing the adaptive threshold Hough algorithm
 <br>
-<p align="center"><img src="images%20for%20GitHub/adaptive%20threshold%20Hough.jpg" width="420px"></p>
+<p align="center"><img src="images%20for%20GitHub/adaptive%20threshold%20Hough.jpg" width="480px"></p>
 <br>
 
 <b>Step 7.</b>&nbsp;&nbsp;Implementing the Haar cascade algorithm
 <br>
-<p align="center"><img src="images%20for%20GitHub/Haar%20cascade.jpg" width="420px"></p>
+<p align="center"><img src="images%20for%20GitHub/Haar%20cascade.jpg" width="480px"></p>
 <br>
 
 <b>Step 8.</b>&nbsp;&nbsp;Analyzing the results for different algorithms (shown for Haar cascade algorithm)
 <br>
-<p align="center"><img src="images%20for%20GitHub/tested%20Haar%20cascade.jpg" width="360px"></p>
+<p align="center"><img src="images%20for%20GitHub/tested%20Haar%20cascade.jpg" width="480px"></p>
 <br>
 
 
